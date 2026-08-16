@@ -1,5 +1,32 @@
-# weatherify
-> A single-page, client-side weather web app (branded in sources as WeatherWise / Weatherify) composed of index.html, style.css and script.js. The repository snapshot is incomplete and contains at least one JavaScript syntax error that prevents the app from running as-is.
+<p align="center">
+  <img src="./.github/readme-assets/signal.gif" alt="Animated signal / product visual for weatherify" width="100%" />
+</p>
+
+<h1 align="center">weatherify</h1>
+
+<p align="center"><strong>A single-page, client-side weather web app (branded in sources as WeatherWise / Weatherify) composed of index.html, style.css and script.js. The repository snapshot is incomplete and contains at least one JavaScript syntax error that prevents the app from running as-is.</strong></p>
+
+<p align="center"><code>REPO//SIGNAL</code> · <code>SIGNAL / PRODUCT</code> · <code>LOOPING README EXPERIENCE</code></p>
+
+## Live signal
+
+| Lens | Readout |
+| --- | --- |
+| Portfolio lane | **SIGNAL / PRODUCT** |
+| Code surface | **5** tracked files observed |
+| Primary materials | **Markdown, HTML, JavaScript, CSS** |
+| Verification | **0** test-related files observed |
+
+> A moving scan of the project surface. The animated frame above is a lightweight visual signature; the sections below remain the source of truth for implementation details.
+
+## Motion map
+
+`SIGNAL` → `SHAPE` → `RELEASE`
+
+Use the animated banner as the first signal, then move into the implementation dossier. The recommended next step is to verify the documented setup command against the repository scripts before extending the project.
+
+<details open>
+<summary><strong>Open the full project dossier</strong></summary>
 
 ## Overview
 A static browser application intended to show current weather, hourly and multi-day forecasts, animated backgrounds, theme and unit toggles, geolocation, and placeholders for air quality and recent searches. The implementation is client-only (no backend) and calls OpenWeatherMap APIs from the browser.
@@ -83,3 +110,9 @@ If you want to contribute code changes or verify referenced DOM IDs:
 
 ## License
 No LICENSE file is present in this repository snapshot. Although the README text references a license type, do not assume a license applies until a LICENSE file is added.
+
+</details>
+
+---
+
+<p align="center"><sub>README motion system · visual layer by RepoSignal · implementation details remain project-specific</sub></p>
